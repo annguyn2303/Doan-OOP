@@ -1,0 +1,15 @@
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\bin\Debug\net6.0\DOANOOP.exe
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\bin\Debug\net6.0\DOANOOP.deps.json
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\bin\Debug\net6.0\DOANOOP.runtimeconfig.json
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\bin\Debug\net6.0\DOANOOP.dll
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\bin\Debug\net6.0\ref\DOANOOP.dll
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\bin\Debug\net6.0\DOANOOP.pdb
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\obj\Debug\net6.0\DOANOOP.csproj.AssemblyReference.cache
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\obj\Debug\net6.0\DOANOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\obj\Debug\net6.0\DOANOOP.AssemblyInfoInputs.cache
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\obj\Debug\net6.0\DOANOOP.AssemblyInfo.cs
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\obj\Debug\net6.0\DOANOOP.csproj.CoreCompileInputs.cache
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\obj\Debug\net6.0\DOANOOP.dll
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\obj\Debug\net6.0\ref\DOANOOP.dll
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\obj\Debug\net6.0\DOANOOP.pdb
+D:\LẬP HÌNH HƯỚNG ĐỐI TƯỢNG\DOANOOP\DOANOOP\obj\Debug\net6.0\DOANOOP.genruntimeconfig.cache
